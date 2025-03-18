@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Roma\\source\\repos\\NumberToWords\\",
+  "WorkspaceRootPath": "C:\\\u0421\u002B\u002B\\NumberToText\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80F54871-E6A5-4A73-8800-AEFD04AFAC28}|NumberToWords.vcxproj|C:\\Users\\Roma\\source\\repos\\NumberToWords\\NumberToWords.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{80F54871-E6A5-4A73-8800-AEFD04AFAC28}|NumberToWords.vcxproj|C:\\\u0421\u002B\u002B\\NumberToText\\NumberToWords.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{80F54871-E6A5-4A73-8800-AEFD04AFAC28}|NumberToWords.vcxproj|solutionrelative:NumberToWords.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80F54871-E6A5-4A73-8800-AEFD04AFAC28}|NumberToWords.vcxproj|C:\\Users\\Roma\\source\\repos\\NumberToWords\\Numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{80F54871-E6A5-4A73-8800-AEFD04AFAC28}|NumberToWords.vcxproj|solutionrelative:Numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{80F54871-E6A5-4A73-8800-AEFD04AFAC28}|NumberToWords.vcxproj|C:\\\u0421\u002B\u002B\\NumberToText\\AssignedDesignations.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80F54871-E6A5-4A73-8800-AEFD04AFAC28}|NumberToWords.vcxproj|solutionrelative:AssignedDesignations.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80F54871-E6A5-4A73-8800-AEFD04AFAC28}|NumberToWords.vcxproj|C:\\Users\\Roma\\source\\repos\\NumberToWords\\NumberOfDigits.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{80F54871-E6A5-4A73-8800-AEFD04AFAC28}|NumberToWords.vcxproj|solutionrelative:NumberOfDigits.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80F54871-E6A5-4A73-8800-AEFD04AFAC28}|NumberToWords.vcxproj|C:\\Users\\Roma\\source\\repos\\NumberToWords\\CaseDigit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{80F54871-E6A5-4A73-8800-AEFD04AFAC28}|NumberToWords.vcxproj|C:\\\u0421\u002B\u002B\\NumberToText\\CaseDigit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{80F54871-E6A5-4A73-8800-AEFD04AFAC28}|NumberToWords.vcxproj|solutionrelative:CaseDigit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80F54871-E6A5-4A73-8800-AEFD04AFAC28}|NumberToWords.vcxproj|C:\\Users\\Roma\\source\\repos\\NumberToWords\\AssignedDesignations.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{80F54871-E6A5-4A73-8800-AEFD04AFAC28}|NumberToWords.vcxproj|solutionrelative:AssignedDesignations.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{80F54871-E6A5-4A73-8800-AEFD04AFAC28}|NumberToWords.vcxproj|C:\\\u0421\u002B\u002B\\NumberToText\\NumberOfDigits.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80F54871-E6A5-4A73-8800-AEFD04AFAC28}|NumberToWords.vcxproj|solutionrelative:NumberOfDigits.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F54871-E6A5-4A73-8800-AEFD04AFAC28}|NumberToWords.vcxproj|C:\\\u0421\u002B\u002B\\NumberToText\\Numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80F54871-E6A5-4A73-8800-AEFD04AFAC28}|NumberToWords.vcxproj|solutionrelative:Numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +42,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "AssignedDesignations.cpp",
-              "DocumentMoniker": "C:\\Users\\Roma\\source\\repos\\NumberToWords\\AssignedDesignations.cpp",
+              "DocumentMoniker": "C:\\\u0421\u002B\u002B\\NumberToText\\AssignedDesignations.cpp",
               "RelativeDocumentMoniker": "AssignedDesignations.cpp",
-              "ToolTip": "C:\\Users\\Roma\\source\\repos\\NumberToWords\\AssignedDesignations.cpp",
+              "ToolTip": "C:\\\u0421\u002B\u002B\\NumberToText\\AssignedDesignations.cpp",
               "RelativeToolTip": "AssignedDesignations.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -55,39 +55,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "CaseDigit.cpp",
-              "DocumentMoniker": "C:\\Users\\Roma\\source\\repos\\NumberToWords\\CaseDigit.cpp",
+              "DocumentMoniker": "C:\\\u0421\u002B\u002B\\NumberToText\\CaseDigit.cpp",
               "RelativeDocumentMoniker": "CaseDigit.cpp",
-              "ToolTip": "C:\\Users\\Roma\\source\\repos\\NumberToWords\\CaseDigit.cpp",
+              "ToolTip": "C:\\\u0421\u002B\u002B\\NumberToText\\CaseDigit.cpp",
               "RelativeToolTip": "CaseDigit.cpp",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAAADUAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAADUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-16T07:46:36.725Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "NumberOfDigits.cpp",
-              "DocumentMoniker": "C:\\Users\\Roma\\source\\repos\\NumberToWords\\NumberOfDigits.cpp",
+              "DocumentMoniker": "C:\\\u0421\u002B\u002B\\NumberToText\\NumberOfDigits.cpp",
               "RelativeDocumentMoniker": "NumberOfDigits.cpp",
-              "ToolTip": "C:\\Users\\Roma\\source\\repos\\NumberToWords\\NumberOfDigits.cpp",
+              "ToolTip": "C:\\\u0421\u002B\u002B\\NumberToText\\NumberOfDigits.cpp",
               "RelativeToolTip": "NumberOfDigits.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQBAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAACQBAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-16T08:58:19.806Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Numbers.cpp",
-              "DocumentMoniker": "C:\\Users\\Roma\\source\\repos\\NumberToWords\\Numbers.cpp",
+              "DocumentMoniker": "C:\\\u0421\u002B\u002B\\NumberToText\\Numbers.cpp",
               "RelativeDocumentMoniker": "Numbers.cpp",
-              "ToolTip": "C:\\Users\\Roma\\source\\repos\\NumberToWords\\Numbers.cpp",
+              "ToolTip": "C:\\\u0421\u002B\u002B\\NumberToText\\Numbers.cpp",
               "RelativeToolTip": "Numbers.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-16T08:57:14.019Z",
               "EditorCaption": ""
@@ -96,11 +96,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "NumberToWords.cpp",
-              "DocumentMoniker": "C:\\Users\\Roma\\source\\repos\\NumberToWords\\NumberToWords.cpp",
+              "DocumentMoniker": "C:\\\u0421\u002B\u002B\\NumberToText\\NumberToWords.cpp",
               "RelativeDocumentMoniker": "NumberToWords.cpp",
-              "ToolTip": "C:\\Users\\Roma\\source\\repos\\NumberToWords\\NumberToWords.cpp",
+              "ToolTip": "C:\\\u0421\u002B\u002B\\NumberToText\\NumberToWords.cpp",
               "RelativeToolTip": "NumberToWords.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-15T07:05:18.729Z",
               "EditorCaption": ""
